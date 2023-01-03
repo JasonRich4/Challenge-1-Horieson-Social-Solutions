@@ -7,7 +7,7 @@ The purpose of this repository and challenge was to demonstrate my knowledge of 
 ## Installation
 
 - Locate repository on [github](https://github.com/JasonRich4/Challenge-1)
-- Copy clone code via [HTTPS](https://github.com/JasonRich4/Challenge-1.git) or [SSH](git@github.com:JasonRich4/Challenge-1.git)
+- Copy clone code via HTTPS or SSH
 - Create a directory on your machine for the repository "mkdir 'Horieson-Social-Solutions-Website'" in terminal/GitBash
 - Open with your preferred choice of source code editor
 
